@@ -4,5 +4,6 @@
 - 扱うトピックについて分子生物学に関して内容は一部専門的になりますが、R・統計に関しては初級から中級のレベルを想定しています。
 - 教材はGoogle Colaboratoryでの実行を想定して作成しています。
 - 教材はアカデミアでの使用は制限を設けませんが、コピーライトは佐藤にあります。
-- 教材についての質問・議論、バグ等があれば、Issueを
-https://github.com/satoxlab/learning-R/discussions
+- 教材についての質問・議論、バグ等があれば、ディスカッション[1]にご連絡ください。
+
+[1] https://github.com/satoxlab/learning-R/discussions
