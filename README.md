@@ -7,10 +7,13 @@
 - 教材についての質問・議論、バグ等があれば、[ディスカッション](https://github.com/satoxlab/learning-R/discussions)に書き込んでださい。
 
 ## トピックス
-- はじめに - Google Colaboratory, Markdownについて
-- 何故、統計、Rなのか
+- はじめに
+  - Google Colaboratory, Markdownについて
+  - 何故、統計学、Rを使うのか
 - Rによるデータ可視化、画像の読み込み
 - Rを使った統計学基礎
+- 線形モデルと実験計画
+- 確率分布と一般化線形モデル
 - 多変量解析
 - Rを使ったDNA・アミノ酸配列（文字列）解析、正規表現
 - 分子生物学で汎用されるデータフォーマットとRでの取り扱い
