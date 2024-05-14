@@ -21,3 +21,6 @@
   - blast出力結果の抽出
 - Rを使った画像解析
 - Google Colaboratory, Markdownについて
+
+## Google Colaboratory 教材リンク
+- [文字列解析、ループ、描画（応用生命科学実験)](https://colab.research.google.com/drive/1-Mr1te3-zQF6ZmjiAmB2tRFuwH12g3Ab?usp=sharing)
