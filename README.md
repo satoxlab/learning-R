@@ -7,7 +7,7 @@
 - 教材はアカデミアでの使用は制限を設けませんが、コピーライトは佐藤にあります。
 - 教材についての質問・議論、バグ等があれば、[ディスカッション](https://github.com/satoxlab/learning-R/discussions)に書き込んでださい。
 
-## [トピックス](https://github.com/satoxlab/learning-R/wiki)
+## [トピックス (wikiへのリンク）](https://github.com/satoxlab/learning-R/wiki)
 - [何故、Rを使うのか](https://github.com/satoxlab/learning-R/wiki/_%E4%BD%95%E6%95%85%E3%80%81R%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
   - テキストファイル、画像の読み込み
   - 作図：Rによるデータ可視化
