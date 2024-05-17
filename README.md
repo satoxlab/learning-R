@@ -9,18 +9,17 @@
 
 ## [トピックス (wikiへのリンク）](https://github.com/satoxlab/learning-R/wiki)
 - [何故、Rを使うのか](https://github.com/satoxlab/learning-R/wiki/_%E4%BD%95%E6%95%85%E3%80%81R%E3%82%92%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
-  - テキストファイル、画像の読み込み
-  - 作図：Rによるデータ可視化
-- 種々の確率分布
+  - Google Colaboratory, Markdownについて
 - Rを使った統計学基礎
+- 種々の確率分布
 - 線形モデルと実験計画
-- 確率分布と一般化線形モデル
+  - 確率分布と一般化線形モデル
 - 多変量解析
 - Rを使ったDNA・アミノ酸配列（文字列）解析、正規表現
 - 分子生物学で汎用されるデータフォーマットとRでの取り扱い
   - blast出力結果の抽出
 - Rを使った画像解析
-- Google Colaboratory, Markdownについて
 
 ## Google Colaboratory 教材リンク
+- [オーバービュー: 遺伝子発現解析をRで行う]()
 - [文字列解析、blast出力結果の抽出、描画（応用生命科学実験)](https://colab.research.google.com/drive/1-Mr1te3-zQF6ZmjiAmB2tRFuwH12g3Ab?usp=sharing)
