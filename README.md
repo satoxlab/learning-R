@@ -21,5 +21,11 @@
 - Rを使った画像解析
 
 ## Google Colaboratory 教材リンク
-- [オーバービュー: 遺伝子発現解析をRで行う]()
+- [オーバービュー: 遺伝子発現解析をR, Google Colaboratoryで行う]()
+- [統計学入門 (検定）]()
+- [線型モデル]()
+- [一般化線型モデル]()
+- [ファイルフォーマット]()
 - [文字列解析、blast出力結果の抽出、描画（応用生命科学実験)](https://colab.research.google.com/drive/1-Mr1te3-zQF6ZmjiAmB2tRFuwH12g3Ab?usp=sharing)
+- [Rでの画像の読込、作図]()
+- 
