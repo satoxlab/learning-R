@@ -21,12 +21,16 @@
 - Rを使った画像解析
 
 ## Google Colaboratory 教材リンク
+メインの教材として遺伝子発現解析に関わる統計解析の教材をいかに示します。
 下記を自身のgoogle Driveにコピーして使用してください。
 - [Rの基礎・概要](https://colab.research.google.com/drive/1gTbeXpdX7k7IZ5Pw72rcsCNmU_qLnCzc?authuser=1)
 - [オーバービュー: 遺伝子発現解析をR, Google Colaboratoryで行う](https://colab.research.google.com/drive/1KvXSlyINsMb432jTfxiowVeGAYOu-OuS?authuser=1)
 - [統計学入門 (検定）]()
 - [線型モデル]()
 - [一般化線型モデル](https://colab.research.google.com/drive/1vLwuRDxnCc3HfyQiyLhwW0jN8jI0ykZS?authuser=1#scrollTo=5cEbmyBrkqfd)
+- [多変量解析]（）
+
+遺伝子発現解析以外のトピック
 - [ファイルフォーマット]()
 - [文字列解析、blast出力結果の抽出、描画（応用生命科学実験)](https://colab.research.google.com/drive/1M9PnqpiDEhmq7svMFIR8m-oPIZ9yHr2W?authuser=1)
 - [Rでの画像の読込、作図]()
