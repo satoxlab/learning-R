@@ -28,7 +28,7 @@
 - [統計学入門 (検定）]()
 - [線型モデル]()
 - [一般化線型モデル](https://colab.research.google.com/drive/1vLwuRDxnCc3HfyQiyLhwW0jN8jI0ykZS?authuser=1#scrollTo=5cEbmyBrkqfd)
-- [多変量解析]()
+- [多変量解析](https://colab.research.google.com/drive/1NemRlG63p1qpzf9RGCfRctnu12lZxDrf?authuser=1)
 
 遺伝子発現解析以外のトピック
 - [ファイルフォーマット]()
