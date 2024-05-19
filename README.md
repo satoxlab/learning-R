@@ -28,6 +28,7 @@
 - [統計学入門 (検定）]()
 - [一般化線型モデル: edgeRでの遺伝子発現解析]()
   - [一般化線型モデルの基礎](https://colab.research.google.com/drive/1vLwuRDxnCc3HfyQiyLhwW0jN8jI0ykZS?authuser=1#scrollTo=5cEbmyBrkqfd)
+  - [種々の確率分布](https://drive.google.com/file/d/1Q1dK07Ckfs11fn66GyMW40emvA73_5F9/view?usp=sharing)
 - [多変量解析](https://colab.research.google.com/drive/1NemRlG63p1qpzf9RGCfRctnu12lZxDrf?authuser=1)
 
 遺伝子発現解析以外のトピック
