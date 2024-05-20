@@ -34,4 +34,4 @@
 遺伝子発現解析以外のトピック
 - [ファイルフォーマット](https://colab.research.google.com/drive/1wm58-J1PSEvIKR3gwq7ZzSP7Xl6iZcDf)
 - [文字列解析、blast出力結果の抽出、描画（応用生命科学実験)](https://colab.research.google.com/drive/1M9PnqpiDEhmq7svMFIR8m-oPIZ9yHr2W?authuser=1)
-- [Rでの画像の読込、作図]()
+- [Rでの画像の読込、作図](https://colab.research.google.com/drive/1lzXNRT20fBZQgm-TsqJ0y32PI_dH4QZc)
